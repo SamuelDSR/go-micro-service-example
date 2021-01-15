@@ -1,0 +1,13 @@
+{
+  "id": "100",
+  "description": "This is a test consignment",
+  "weight": 1550,
+  "containers": [
+    {
+      "customer_id": "cust001",
+      "user_id": "user001",
+      "origin": "Paris, France"
+    }
+  ],
+  "vessel_id": "vessel001"
+}
